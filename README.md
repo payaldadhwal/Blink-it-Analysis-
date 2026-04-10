@@ -14,7 +14,7 @@ This project focuses on analyzing a retail grocery dataset using SQL and Power B
 ---
 
 ## 🔹 Dashboard Preview
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](https://github.com/payaldadhwal/Blink-it-Analysis-/blob/main/dashboard_sc.png?raw=true)
 
 ---
 
